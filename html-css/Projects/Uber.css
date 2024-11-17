@@ -1,0 +1,55 @@
+.title{
+  font-size: 50px;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.location{
+  width:400px;
+  height:30px;
+  text-align: left;
+  background-color: rgba(182, 176, 176, 0.514);
+  padding-left: 25px;
+  padding-top: 12px;
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+
+.destination{
+  width:400px;
+  height:30px;
+  text-align: left;
+  background-color: rgba(182, 176, 176, 0.514);
+  padding-left: 25px;
+  padding-top: 12px;
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.request,.later{
+  display: inline-block;
+}
+
+.request{
+  width: 120px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 14px;
+  padding-top: 9px;
+}
+
+.later{
+  margin-left: 5px;
+  margin-top: 16px;
+  vertical-align: top;
+  width: 140px;
+  height: 30px;
+  padding-top: 10px;
+  padding-left:8px;
+  background-color: rgba(182, 176, 176, 0.514);
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
